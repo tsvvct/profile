@@ -26,6 +26,7 @@
 <p>В исходных данных были даны три таблицы в excell: id подписчиков с датой регистрации, все просмотры в исследуемом периоде и финансовые результаты в разрезе месяца. На основе исходных таблиц были расчитаны метрики юнит экономики, расчитаны вторичные данные(день недели, час просмотра...) для анализа данных в дополнительных разрезах.<p>
 
 > <a href="https://docs.google.com/spreadsheets/d/19eInWUwf_J66efvLGrgc_et8uszENWZm/edit?usp=share_link&ouid=107345745887689613190&rtpof=true&sd=true">Калькулятор</a>
+
 > <a href="https://docs.google.com/presentation/d/1NFuFxmTrwxlK1-eLkDPRlEeSrYpCqVvg/edit?usp=share_link&ouid=107345745887689613190&rtpof=true&sd=true">Результаты проекта</a>
  
  
@@ -52,7 +53,7 @@
 
 > <a href="https://docs.google.com/presentation/d/1WgK4QK2Xhnqi-6xP0MgdcvPHyyRgl2OsWOe548Kh0KQ/edit?usp=share_link">Визуализация результата</a>
 >
-> <a href="https://docs.google.com/document/d/1xVw60aq_7mYjZhCxb-DAXpDloVg2YZ_xuqsq4cASNAE/edit?usp=share_link">Тексты разработанных запросов</a>
+> <a href="students_payments.sql">Тексты разработанных запросов</a>
   
 <p>Выводы (итоги):<p>
 <ol>
