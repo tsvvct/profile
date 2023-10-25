@@ -25,6 +25,7 @@
 
 <p>В исходных данных были даны три таблицы в excell: id подписчиков с датой регистрации, все просмотры в исследуемом периоде и финансовые результаты в разрезе месяца. На основе исходных таблиц были расчитаны метрики юнит экономики, расчитаны вторичные данные(день недели, час просмотра...) для анализа данных в дополнительных разрезах.<p>
 
+> <a href="https://docs.google.com/spreadsheets/d/19eInWUwf_J66efvLGrgc_et8uszENWZm/edit?usp=share_link&ouid=107345745887689613190&rtpof=true&sd=true">Калькулятор</a>
 > <a href="https://docs.google.com/presentation/d/1NFuFxmTrwxlK1-eLkDPRlEeSrYpCqVvg/edit?usp=share_link&ouid=107345745887689613190&rtpof=true&sd=true">Результаты проекта</a>
  
  
